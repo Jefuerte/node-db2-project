@@ -2,7 +2,7 @@
 
 const cars = [
     { 
-        vin: '123456789234567',
+        vin: '5J8TB1H52CA023115',
         make: 'Toyota',
         model: 'Tundra',
         mileage: 1000,
@@ -10,7 +10,7 @@ const cars = [
         transmission: 'manual',
     },
     { 
-        vin: '123246789234567',
+        vin: 'KMHDN46D05U916449',
         make: 'Honda',
         model: 'Civic Type R',
         mileage: 1100,
@@ -18,7 +18,7 @@ const cars = [
         transmission: 'stick',
     }, 
     { 
-        vin: '123456789234555',
+        vin: 'WDBUF56J86A738367',
         make: 'Porsche',
         model: 'Taycan',
         mileage: 0,
@@ -26,7 +26,7 @@ const cars = [
         transmission: 'electric',
     }, 
     { 
-        vin: '123456789234897',
+        vin: '1GKS2CE04BR392092',
         make: 'Toyota',
         model: 'Corrolla',
         mileage: 3000,
